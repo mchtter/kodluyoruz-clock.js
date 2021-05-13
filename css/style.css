@@ -1,0 +1,26 @@
+.clock {
+    position: relative;
+    text-align: center;
+    color: #ebb000;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: #ebb000;
+    font-size: 50px;
+    letter-spacing: 7px;
+    margin-top: 10%;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: #ebb000;
+    font-size: 40px;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
