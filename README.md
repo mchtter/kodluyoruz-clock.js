@@ -1,1 +1,1 @@
-# kodluyoruzJavascript
+# kodluyoruz-clock.js
